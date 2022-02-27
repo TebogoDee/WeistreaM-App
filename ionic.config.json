@@ -1,0 +1,7 @@
+{
+  "name": "WeistreaM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
